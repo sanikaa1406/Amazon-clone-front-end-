@@ -1,0 +1,1 @@
+This project is a pure HTML and CSS recreation of the Amazon homepage. It focuses entirely on layout, responsiveness, UI replication, and styling, without any JavaScript functionality. The goal of this project is to strengthen frontend fundamentals through pixel-perfect design and clean code structure.
